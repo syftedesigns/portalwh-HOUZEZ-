@@ -1,0 +1,5 @@
+user: admin
+pwd: z7B049PsHadQr8aaX7
+
+mapbox key
+sk.eyJ1IjoiaW5nY2FybG9zZSIsImEiOiJjazZmbnFmdnoxeHAxM25yemd4amV0YTl0In0.28lF1sF72WcCQ6nA7xqNkA
